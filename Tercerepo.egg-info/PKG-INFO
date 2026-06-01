@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Tercerepo
+Version: 0.1
+Home-page: https://github.com/levibintell-hub/git-github
+Author: leviB
+Author-email: levibintell@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page

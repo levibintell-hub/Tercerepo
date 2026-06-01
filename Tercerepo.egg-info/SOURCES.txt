@@ -1,0 +1,7 @@
+README.md
+setup.py
+Tercerepo/__init__.py
+Tercerepo.egg-info/PKG-INFO
+Tercerepo.egg-info/SOURCES.txt
+Tercerepo.egg-info/dependency_links.txt
+Tercerepo.egg-info/top_level.txt
